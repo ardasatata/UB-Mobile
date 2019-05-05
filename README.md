@@ -1,6 +1,6 @@
 # Brawijaya Mobiles App
 
-Built using react native
+Prototype of Brawijaya mobile app built using react native
 
 ### Demo
 
